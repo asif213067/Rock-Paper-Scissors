@@ -60,7 +60,7 @@ rock-paper-scissors/
 
 Play the game here:
 
-**https://your-username.github.io/rock-paper-scissors/**
+**https://asif213067.github.io/Rock-Paper-Scissors/**
 
 ---
 
